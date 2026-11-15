@@ -1,3 +1,4 @@
+<img width="1408" height="768" alt="PRODUCCION DE UN HIGGS" src="https://github.com/user-attachments/assets/cca6608f-323f-4c98-b8d1-e50bfd017793" />
 <img width="1408" height="768" alt="PYTORCH 2" src="https://github.com/user-attachments/assets/415ffb03-8511-4d96-9273-c108ae500b93" />
 <img width="1408" height="768" alt="PYTORCH 1" src="https://github.com/user-attachments/assets/8533ba17-28e7-4399-8ebe-a7f37aa78d5a" />
 ADFM - PA_03_neural_network_torch.ipynb

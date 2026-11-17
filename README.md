@@ -8,3 +8,4 @@ ADFM - PA_03_neural_network_torch.ipynb
 <img width="1478" height="704" alt="ESCALADORES Y PCS" src="https://github.com/user-attachments/assets/774d9e50-333f-4d5f-bcd4-fb1880e6f962" />
 <img width="1389" height="768" alt="DATASET Y DATALOADER" src="https://github.com/user-attachments/assets/94653b26-2741-4a1f-9e16-d83111e6e9ff" />
 <img width="1351" height="784" alt="ARQUITECTURA DE LA RED NEURONAL" src="https://github.com/user-attachments/assets/1ea514ac-2dd7-42ca-990e-c405ddbecb88" />
+<img width="2400" height="1792" alt="CALCULO DE PARAMETROS" src="https://github.com/user-attachments/assets/4b2284c0-6ac2-41f2-9e94-94c1e5aced9a" />

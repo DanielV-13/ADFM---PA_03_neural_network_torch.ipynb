@@ -10,3 +10,4 @@ ADFM - PA_03_neural_network_torch.ipynb
 <img width="1351" height="784" alt="ARQUITECTURA DE LA RED NEURONAL" src="https://github.com/user-attachments/assets/1ea514ac-2dd7-42ca-990e-c405ddbecb88" />
 <img width="2400" height="1792" alt="CALCULO DE PARAMETROS" src="https://github.com/user-attachments/assets/4b2284c0-6ac2-41f2-9e94-94c1e5aced9a" />
 <img width="2752" height="1536" alt="VISUALIZACION DE PREDICCIONES INCIALES" src="https://github.com/user-attachments/assets/4c293657-7389-42c2-bd44-76098974ae70" />
+<img width="2752" height="1536" alt="TEST LOOP" src="https://github.com/user-attachments/assets/ce7f18d2-8b7f-4b51-a76a-cf827a117a57" />

@@ -12,3 +12,7 @@ ADFM - PA_03_neural_network_torch.ipynb
 <img width="2752" height="1536" alt="VISUALIZACION DE PREDICCIONES INCIALES" src="https://github.com/user-attachments/assets/4c293657-7389-42c2-bd44-76098974ae70" />
 <img width="2752" height="1536" alt="TEST LOOP" src="https://github.com/user-attachments/assets/ce7f18d2-8b7f-4b51-a76a-cf827a117a57" />
 <img width="2752" height="1536" alt="LOSS FUNCTIONS EN PYTHON" src="https://github.com/user-attachments/assets/a72982fe-959b-4d3e-b51a-34e7fb52fd3b" />
+<img width="2816" height="1536" alt="TEMPERATURA Y LEARNING RATE" src="https://github.com/user-attachments/assets/6a373df0-35bf-4f84-8857-780b817cb547" 
+
+  /><img width="2816" height="1536" alt="METAHEURISTICA DEL RECOCIDO SIMULADO" src="https://github.com/user-attachments/assets/6ba3c891-a26a-43a7-aca0-1c1ad1bd287e" />
+

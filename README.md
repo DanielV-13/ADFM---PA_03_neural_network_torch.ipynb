@@ -16,4 +16,6 @@ ADFM - PA_03_neural_network_torch.ipynb
 
   /><img width="2816" height="1536" alt="METAHEURISTICA DEL RECOCIDO SIMULADO" src="https://github.com/user-attachments/assets/6ba3c891-a26a-43a7-aca0-1c1ad1bd287e" />
 <img width="2816" height="1536" alt="OPTIMIZERS EN PYTORCH" src="https://github.com/user-attachments/assets/f309ecc5-bdc7-4106-95fe-036230d914ea" />
+<img width="959" height="530" alt="ONE HOT ENCODING DIAPOS 2" src="https://github.com/user-attachments/assets/52a8ed5f-5e6d-463c-ad30-30efed56442d" />
+<img width="932" height="533" alt="ONE HOT ENCODING DIAPOS 1" src="https://github.com/user-attachments/assets/41b36566-75cc-4c7b-b494-46ed9c602b89" />
 

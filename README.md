@@ -225,7 +225,7 @@ El cuaderno termina con un reto opcional: *"You can try!"*. Lo acepté y diseñ�
 | 2 | Clasificación multiclase | `Softmax` + entropía cruzada categórica | **Logits** + `nn.CrossEntropyLoss()` (la `Softmax` va **por dentro**; se aplica a mano solo al evaluar) |
 | 3 | Regresión | Ninguna o `ReLU` (para asegurar > 0) + MSE | Primero `ReLU` ($p_T$ en GeV); después **salida lineal** ($\ln p_T$) + `nn.MSELoss()` |
 
-⚠️ **La trampa de la "*Softmax* doble":** si se pone `nn.Softmax()` al final de la red y además se usa `CrossEntropyLoss`, la *Softmax* se aplica dos veces. El cuaderno lo demuestra: con 3 clases, la pérdida **nunca baja de 0.55**, aunque la red acierte con total seguridad, y el gradiente cae a menos de la mitad cuando la red duda.
+⚠️ **La trampa de la "*Softmax* doble":** si se pone `nn.Softmax()` al final de la red y además se usa `CrossEntropyLoss`, la *Softmax* se aplica dos veces. Consecuencia: con 3 clases, la pérdida **nunca baja de 0.55**, aunque la red acierte con total seguridad, y el gradiente cae a menos de la mitad cuando la red duda.
 
 ---
 

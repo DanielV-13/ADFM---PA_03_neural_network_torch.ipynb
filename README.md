@@ -290,6 +290,10 @@ El cuaderno termina con un reto opcional: *"You can try!"*. Lo acepté y diseñ�
 <img width="800" alt="One hot encoding" src="https://github.com/user-attachments/assets/1b6f8c49-352a-4cd7-8482-8b69d7243359" />
 <img width="800" alt="One hot encoding diapositiva 1" src="https://github.com/user-attachments/assets/41b36566-75cc-4c7b-b494-46ed9c602b89" />
 <img width="800" alt="One hot encoding diapositiva 2" src="https://github.com/user-attachments/assets/52a8ed5f-5e6d-463c-ad30-30efed56442d" />
+<img width="776" height="437" alt="TRAINING para distintos TASKs - Tabla" src="https://github.com/user-attachments/assets/9f4d0d00-2edf-4817-9492-18b4e39d1762" />
+<img width="631" height="609" alt="HIGGS IMAGEN DESCUBRIMEINTO" src="https://github.com/user-attachments/assets/1565cd1f-fd97-4f66-8dc1-034b4ee4cd90" />
+<img width="386" height="380" alt="HIGGS IMAGEN DESCUBRIMEINTO 2" src="https://github.com/user-attachments/assets/7d44c96f-9591-4dde-9958-0f49ec1ed1a3" />
+
 
 </details>
 
